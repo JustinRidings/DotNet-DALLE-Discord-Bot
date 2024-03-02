@@ -1,5 +1,5 @@
 # .NET DALLE Discord Bot
-A Discord Bot for generating DALLE images from commands using your own Open AI & Discord Bot tokens. Can can be published as a continuous WebJob on an Azure AppService to maintain minimal cost. Publish using --self-contained to run xplat.
+A Discord Bot for generating DALLE images from commands using your own Open AI & Discord Bot tokens. Can can be published as a continuous WebJob on an Azure AppService to maintain minimal cost. Publish using `--self-contained` to run xplat.
 
 ## Prerequisites
 [ ] [.NET 6.0 Runtime & SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) for local development
